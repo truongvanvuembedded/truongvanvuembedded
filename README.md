@@ -57,16 +57,13 @@
 ![Static Analysis](https://img.shields.io/badge/Static%20Analysis-%23212121.svg?style=for-the-badge)
 ![Code Coverage](https://img.shields.io/badge/Code%20Coverage-%2300BCD4.svg?style=for-the-badge)
 
-## Event-Driven Programming
-![Event Driven](https://img.shields.io/badge/Event--Driven%20Programming-%2300ACC1.svg?style=for-the-badge)
-![Finite State Machine](https://img.shields.io/badge/Finite%20State%20Machine-%233F51B5.svg?style=for-the-badge)
-![Event Queue](https://img.shields.io/badge/Event%20Queue-%234CAF50.svg?style=for-the-badge)
-![Message Passing](https://img.shields.io/badge/Message%20Passing-%239C27B0.svg?style=for-the-badge)
-![Callback](https://img.shields.io/badge/Callback%20Mechanism-%23FF9800.svg?style=for-the-badge)
-![Publish Subscribe](https://img.shields.io/badge/Publish--Subscribe-%23673AB7.svg?style=for-the-badge)
-![Observer Pattern](https://img.shields.io/badge/Observer%20Pattern-%23795548.svg?style=for-the-badge)
-![Cooperative Scheduler](https://img.shields.io/badge/Cooperative%20Scheduler-%23212121.svg?style=for-the-badge)
-![Preemptive Scheduling](https://img.shields.io/badge/Preemptive%20Scheduling-%23009688.svg?style=for-the-badge)
+## FreeRTOS Concepts
+![Task](https://img.shields.io/badge/Task%20Management-%23009688.svg?style=for-the-badge)
+![Queue](https://img.shields.io/badge/Queue%20%26%20Semaphore-%234CAF50.svg?style=for-the-badge)
+![Event Group](https://img.shields.io/badge/Event%20Group-%2300ACC1.svg?style=for-the-badge)
+![ISR](https://img.shields.io/badge/ISR%20Handling-%23FF9800.svg?style=for-the-badge)
+![Scheduling](https://img.shields.io/badge/Preemptive%20Scheduling-%23212121.svg?style=for-the-badge)
+![Memory](https://img.shields.io/badge/Heap%20Management-%233F51B5.svg?style=for-the-badge)
 
 ## Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-%231572B6.svg?style=for-the-badge&logo=linux&logoColor=white)
