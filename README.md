@@ -6,7 +6,7 @@
 🎓 Graduated from **Da Nang University of Science and Technology**.  
 💡 I focus on low-level embedded software, firmware reliability, and embedded system design.
 
-[🏠 Portfolio](truongvanvuembedded.github.io) | [📧 Email](mailto:truongvanvuvta1@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/vu-truong-van-1b9291271/)
+[🏠 Portfolio](https://truongvanvuembedded.github.io) | [📧 Email](mailto:truongvanvuvta1@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/vu-truong-van-1b9291271/)
 
 ---
 
