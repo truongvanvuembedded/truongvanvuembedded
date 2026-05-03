@@ -14,15 +14,3 @@
 
 
 [🏠 Portfolio](https://truongvanvuembedded.github.io) | [📧 Email](mailto:truongvanvuvta1@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/vu-truong-van-1b9291271/)
-
-# 📊 GitHub Stats
-
-![Profile views](https://komarev.com/ghpvc/?username=truongvanvuembedded&label=Profile%20views&color=0e75b6&style=flat)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=truongvanvuembedded&show_icons=true&include_all_commits=false&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=truongvanvuembedded&layout=compact)
-
-
-
-*Check out my repositories below.*
