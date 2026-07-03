@@ -4,7 +4,7 @@
 
 🚀 I’m an **Embedded Software Engineer** with 3 years of hands-on experience in embedded systems and IoT development.
 
-💡 My work focuses on low-level firmware development, RTOS-based systems, embedded communication protocols, device reliability, and system architecture.
+💡 My work focuses on low-level firmware development, RTOS-based systems,event driven programming, embedded communication protocols, device reliability, and system architecture.
 
 🔧 Experienced in developing and debugging firmware for microcontrollers, integrating peripherals, optimizing system performance, and building reliable connected devices.
 
